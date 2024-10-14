@@ -17,11 +17,11 @@ I'm a self-taught developer, who's currently pursuing a Full-Stack development t
 
   - Python
   - Web Scraping
-  - 
+  
 Currently learning Front-end development and soon to the Back-end development.
 
 ---
 
 ### 📊 Weekly Development Breakdown
 
-[yukisakk GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukisakk&count_private=true&theme=tokyonight)
+![yukisakk GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukisakk&count_private=true&theme=tokyonight)
