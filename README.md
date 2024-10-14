@@ -11,7 +11,7 @@ I'm a self-taught developer, who's currently pursuing a Full-Stack development t
   - TypeScript
   - React / Next.js
   - Tailwind CSS
-  - In the past: HTML/CSS/JS
+  - In the past: HTML / CSS / JS
 
 - 🛠 Back-end:
 
