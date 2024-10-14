@@ -1,4 +1,4 @@
-# 👋Hi, I'm Yuki.
+# 👋 Hi, I'm Yuki.
 
 I'm a self-taught developer, who's currently pursuing a Full-Stack development to create user experiences on the front-end.
 
