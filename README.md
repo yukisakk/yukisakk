@@ -22,6 +22,6 @@ Currently learning Front-end development and soon to the Back-end development.
 
 ---
 
-### 📈 Status
+### 📈 Stats
 
 ![yukisakk GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukisakk&count_private=true&theme=tokyonight)
